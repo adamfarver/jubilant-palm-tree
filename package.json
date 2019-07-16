@@ -1,0 +1,19 @@
+{
+	"name": "jubilant-palm-tree",
+	"version": "1.0.0",
+	"description": "Book Cataloging App",
+	"main": "app.js",
+	"scripts": {
+		"test": "mocha"
+	},
+	"author": "Adam Farver <adamfarver@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"axios": "^0.19.0",
+		"express": "^4.17.1",
+		"mongoose": "^5.6.4"
+	},
+	"devDependencies": {
+		"mocha": "^6.1.4"
+	}
+}
